@@ -1,3 +1,4 @@
+![avatar](https://raw.githubusercontent.com/weibear/resources/main/picture/home/home-page-background.png)
 ### Hi there 👋
 
 <!--
